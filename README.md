@@ -19,9 +19,6 @@ The black hole can only be activated once every 15 seconds and will clear all bu
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ShavonS/mci2lab.git
-2. Navigate to the project directory:
-    ```sh
-    cd mci2lab
-    ```
-3. Open `index.html` in your preferred web browser to start the game.
+    git clone https://github.com/ShavonS/RisingBubbles.github.io.git
+
+2. Open `index.html` in your preferred web browser to start the game.
